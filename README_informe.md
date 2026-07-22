@@ -1,4 +1,4 @@
-# Informe de Exposición — Herramientas de Gestión de Requisitos
+# Informe de Exposición — Herramientas de diagramas
 
 **Autor:** Macías Herrera  
 **Fecha:** 16 de junio de 2026
